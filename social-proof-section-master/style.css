@@ -1,0 +1,29 @@
+* {
+    margin: none;
+    padding: none;
+    box-sizing: border-box;
+    font-size: 15 px;
+}
+
+.title-sub {
+    width: 500px;
+} 
+
+.sub {
+    width: 500px;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/*.star {
+    
+}*/
+
+.colton-box {
+    background-color: hsl(300, 43%, 22%);
+    color: white;
+}
